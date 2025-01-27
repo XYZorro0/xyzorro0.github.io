@@ -27,16 +27,16 @@ author:
   bio: "Hi, I'm Niket Gupta, a Computer Science student at University of Houston, currently in my last year of study. I'm deeply interested in data science, software development, cybersecurity, and artificial intelligence. My goal is to pursue a career in data science or cybersecurity, where I can apply my skills to solve complex challenges and protect valuable information systems."
   location: "Houston, TX"
   employer: "University Houston"
-  uri: # URL
+  uri: "cs.uh.edu" # URL
   email: "niketgupta1@gmail.com"
 
   # Academic websites
   arxiv: # URL - Update with the correct link to your profile
-  googlescholar: "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar: #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory: # URL
-  orcid: "http://orcid.org/yourorcidurl"
+  orcid: #"http://orcid.org/yourorcidurl"
   semantic: # URL
-  pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed: # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate: # URL
   scopus: # URL
 
