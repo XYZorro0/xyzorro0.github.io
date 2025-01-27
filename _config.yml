@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar: "Wallpaper.jpg"
   name: "Niket Gupta"
-  pronouns: # example: "she/her"
-  bio: "Short biography for the left-hand sidebar"
+  pronouns: "he/him" # example: "she/her"
+  bio: "Hi, I'm Niket Gupta, a Computer Science student at University of Houston, currently in my last year of study. I'm deeply interested in data science, software development, cybersecurity, and artificial intelligence. My goal is to pursue a career in data science or cybersecurity, where I can apply my skills to solve complex challenges and protect valuable information systems."
   location: "Houston, TX"
   employer: "University Houston"
   uri: # URL
@@ -58,7 +58,7 @@ author:
   keybase: # Username
   instagram: # Username
   lastfm: # Username
-  linkedin: # Username
+  linkedin: niketgupta1 # Username
   mastodon: # URL
   medium: # URL
   pinterest: # Username
